@@ -2,7 +2,7 @@
 
 Site : https://www.xavatar.com
 
-Discord : https://discord.gg/zcCXjkQ
+Discord : https://discord.gg/zcCXjkQ G
 
 TUTO Youtube (16.04 / 18.04 - Without SSL) : https://www.youtube.com/watch?v=qE0rhfJ1g2k
 
